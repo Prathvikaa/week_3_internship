@@ -99,7 +99,7 @@ Along with segmentation, I also gained a basic understanding of **embedding mode
 
 ---
 
-## 🎯 Key Learnings
+## Key Learnings
 
 - Strengthened understanding of **computer vision fundamentals**
 - Gained practical insight into **segmentation models**
@@ -109,13 +109,13 @@ Along with segmentation, I also gained a basic understanding of **embedding mode
 
 ---
 
-## 📖 Summary
+## Summary
 
 Week 3 was focused on revising foundational concepts and exploring different model options for the project. By revisiting computer vision and LangChain concepts and experimenting with segmentation models, I gained clarity on how these components fit into the overall solution.
 
 ---
 
-## 📌 Tech Stack / Concepts
+## Tech Stack / Concepts
 
 - Computer Vision  
 - Segmentation Models  
